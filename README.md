@@ -46,3 +46,22 @@
 </div>
 
 ###
+
+Here are a few projects I wrote up while I was in college:
+
+---
+
+<p align="center">
+  <a target="_blank" href="https://medium.com/@ethanrobertwheeler/how-i-got-ai-to-do-my-homework-and-how-you-can-too-ade1aa4149ad">
+    <img src="https://miro.medium.com/v2/resize:fit:948/format:webp/0*z6FBqWnIh8TnbEer" alt="How I got AI todo my homework" />
+  </a>
+</p>
+
+<p align="center">
+  <a target="_blank" href="https://medium.com/@ethanrobertwheeler/is-the-internet-working-a2caa1f9b56d">
+    <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*PAmM0jYnXJ2zYmYRQJ3N_A.png" alt="Is the internet working?" />
+  </a>
+</p>
+
+
+###
