@@ -47,7 +47,7 @@
 
 ###
 
-Here are a few projects I wrote up while I was in college:
+## Here are a few projects I wrote up while I was in college:
 
 ---
 
